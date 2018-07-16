@@ -1,0 +1,17 @@
+*List of all commands...*
+
+**GENERAL**
+
+BOTINFO - Shows information about bot.
+HELP - Shows this message.
+CONTACT [MESSAGE] - Contact the developer of the bot.
+STATS - Shows bot statistics.
+
+**AESTHETIC**
+
+CLEAR [AMOUNT] - Clears messages.
+
+**FUN**
+
+8BALL [MESSAGE] - Play the 8 ball! 
+VS [STUFF1] [STUFF2] - Meme Boi will tell you what is better! 
