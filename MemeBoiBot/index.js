@@ -4,7 +4,7 @@ const fs = require('fs');
 const ytdl = require('ytdl-core');
 const prefix = "m!"
 const version = "0.1.0"
-const dnesov = "dnesov.js#9358"
+const dnesov = "that is classified, too"
 const superagent = require("superagent");
 var commandsList = fs.readFileSync("./commands.txt", "utf8")
 
@@ -120,4 +120,4 @@ bot.on('message', message => {
     }  
 });
 
-bot.login('NDY4MTM5NTc5MTU3Nzc0MzM4.Di01OA.7pBQY_LL7mLdwcFK62blItftGaw');
+bot.login('classified info, sorry');
